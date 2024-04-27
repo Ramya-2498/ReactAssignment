@@ -8,7 +8,7 @@ const FilterComponent = (props) => {
     const uniqueMaterial = [...new Set(webCardsData.map((item) => item.material))];
     const uniqueRegions = [...new Set(webCardsData.map((item) => item.region))];
 
-    const TimePeriodValues = [0, 200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000]
+    const TimePeriodValues = [0, 200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800]
 
     return (
         <div className='filter-component'>
@@ -58,7 +58,7 @@ const FilterComponent = (props) => {
                     <div style={{ display: 'flex', marginTop: '10px', justifyContent: 'space-between' }}>
                         {TimePeriodValues.map(e => {
                             return (
-                                <p>{e}</p>
+                                <p className='time-period'>{e}</p>
                             )
                         })}
                     </div>
