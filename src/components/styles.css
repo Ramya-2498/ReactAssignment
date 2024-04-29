@@ -9,6 +9,8 @@
 .filter-container {
     height: 100vh !important;
     overflow: hidden;
+    opacity: 1;
+    background-color: rgb(180,176,176);
 }
 
 .filter-section {

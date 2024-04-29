@@ -38,7 +38,7 @@ const FilterComponent = (props) => {
                             className="thumb thumb--zindex-3"
                             name='min'
                             onChange={props.handleFilterChange}
-                            value={props.filters.min}
+                            value={props.filters.min !== '' ? props.filters.min:0}
                         />
                         <input
                             type="range"
