@@ -24,7 +24,7 @@ export const webCardsData = [
     },
     {
         name: "As",
-        timePeriod: '200 CE',
+        timePeriod: '700 CE',
         description: 'as',
         material: 'Wood',
         region: 'Telangana Museum',
@@ -33,7 +33,7 @@ export const webCardsData = [
     },
     {
         name: "Test",
-        timePeriod: '600 CE',
+        timePeriod: '900 CE',
         description: 'test',
         material: 'Clay',
         region: 'AP Museum',
@@ -60,7 +60,7 @@ export const webCardsData = [
     },
     {
         name: "Harihara",
-        timePeriod: '1100 BC',
+        timePeriod: '1200 BC',
         description: 'Harihara in Hinduism,is a deity combining the two major gods Vishnu and Shiva images of...',
         material: 'Clay',
         region: 'Bihar Museum',
@@ -69,7 +69,7 @@ export const webCardsData = [
     },
     {
         name: "Lakshmi",
-        timePeriod: '1100 CE',
+        timePeriod: '400 CE',
         description: 'Godess laxmi or Mahalaxmi is the consert of vishnu.She is the resplendent goddess of wealth and prosperity',
         material: 'Stone',
         region: 'Tamilnadu Museum',
@@ -78,7 +78,7 @@ export const webCardsData = [
     },
     {
         name: "Simhananda Lok...",
-        timePeriod: '1300 CE',
+        timePeriod: '1500 CE',
         description: 'Godess laxmi or Mahalaxmi is the consert of vishnu.She is the resplendent goddess of wealth and prosperity',
         material: 'Wood',
         region: 'Bihar Museum',
@@ -87,7 +87,7 @@ export const webCardsData = [
     },
     {
         name: "Votive Tablet w...",
-        timePeriod: '1600 CE',
+        timePeriod: '1700 CE',
         description: 'Godess laxmi or Mahalaxmi is the consert of vishnu.She is the resplendent goddess of wealth and prosperity',
         material: 'Glass',
         region: 'AP Museum',
